@@ -9,3 +9,8 @@ You may also want to explore my [How to Become a Coder](https://github.com/AlexM
 - [Python](./guides/python.md)
 - [PHP](./guides/php.md)
 - [Wordpress](./guides/wordpress.md)
+- [Typescript](./guides/typescript.md)
+- [Vue](./guides/vue.md)
+- [React](./guides/react.md)
+- [Svelte](./guides/svelte.md)
+- [Angular](./guides/angular.md)

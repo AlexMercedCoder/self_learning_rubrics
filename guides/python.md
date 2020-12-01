@@ -22,7 +22,7 @@ Minimalist web frameworks are a great way to get more comfortable with a languag
 
 **PROJECT** Build a web application that connects to a postgres database and delivers a full CRUD api.
 
-# Step 4 - Building a game with Python
+## Step 4 - Building a game with Python
 
 Games are another type of application that forces you to really use all aspects of a language, learn pygame!
 
@@ -30,7 +30,7 @@ Games are another type of application that forces you to really use all aspects 
 
 **Project** Build a simple platformer game, doesn't have to be long or complex
 
-# Step 5 - Learning Django
+## Step 5 - Learning Django
 
 Django is a much more larger system for building web applications. At this point your python foundations should be much stronger making the abstractions Django provides much more powerful and less confusing. Django and Flask make up most of the demand for python developers in the web space.
 
@@ -38,8 +38,17 @@ Django is a much more larger system for building web applications. At this point
 
 **Build** Build a full stack application using Jinja templates
 
-# Step 7 - Learn TensorFlow
+## Step 7 - Learn TensorFlow
 
 TensorFlow is one of the largest frameworks for machine learning which is a hot job market right now. TensorFlow now only requires strong python skills but also the understanding of several mathmatical concepts, these tutorial should help you understand all of of this better.
 
 [TensorFlow Tutorials](https://www.tutorialspoint.com/tensorflow/index.htm)
+
+
+## Step 8 - Learn Masonite
+
+Not as popular as Flask or Django, but Masonite is a very robust web framework that brings a more Ruby on Rails type experience to Python.
+
+[Masonite Documentation](https://docs.masoniteproject.com/)
+
+**project** build a full crud api with JWT 
