@@ -14,3 +14,7 @@ You may also want to explore my [How to Become a Coder](https://github.com/AlexM
 - [React](./guides/react.md)
 - [Svelte](./guides/svelte.md)
 - [Angular](./guides/angular.md)
+- [Javascript](./guides/js.md)
+- [Ruby](./guides/ruby.md)
+- [Rust](./guides/rust.md)
+- [Go](./guides/go.md)
